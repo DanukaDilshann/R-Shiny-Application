@@ -1,1 +1,1 @@
-# Natural Disasters (1970 -2021)
+# Trends and Impacts of Natural Disasters from 1970 to 2021
