@@ -11,6 +11,6 @@ To achieve that, I have used the following dataset.
 Link to data :<a href="https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis"> https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis</a>
 
 <p align="center">
-  <img src="Images/Frontpage.png" width="700" height="500">
+  <img src="Images/Frontpage.png" width="1000" height="600">
 </p>
 
