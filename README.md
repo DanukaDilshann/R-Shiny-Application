@@ -14,3 +14,13 @@ Link to data :<a href="https://www.kaggle.com/datasets/brsdincer/all-natural-dis
   <img src="Images/Frontpage.png" width="1000" height="600">
 </p>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<p align="center">
+ <img src="Images/Sidepanel.png" width=550 height=600></p>
+ <ul>
+   <li>  By default, the visualization displays flood damage data in China from 2012 to 2021. However, you have the flexibility to select any country, specify a range of years, and choose a different type of disaster for visualization.To return to the default settings at any time, simply click the 'Reset to Default' button.</li>
+  <li>To gain more insight into the dataset, simply click on the 'About Dataset' button.</li>
+  <li>To return to the beginning and reset your selections, just click the 'Return' button.</li>
+</ul> 
